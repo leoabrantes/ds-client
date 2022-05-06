@@ -13,6 +13,7 @@ import com.leoabrantes.dsclient.services.exceptions.DatabaseException;
 import com.leoabrantes.dsclient.services.exceptions.EntityNotFoundException;
 
 
+
 @ControllerAdvice
 public class ResourceExceptionHandler {
 	
